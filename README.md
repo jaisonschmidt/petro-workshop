@@ -206,6 +206,10 @@ dist/
 - Use branches para novas features
 - Mantenha o histórico limpo
 
+## GitHub Flow
+
+O GitHub Flow é uma metodologia de trabalho leve e baseada em branches que facilita a colaboração em projetos. O fluxo consiste em: criar uma branch a partir da `main`, fazer commits com suas mudanças, abrir um Pull Request para discussão e revisão, fazer ajustes baseados no feedback recebido, e finalmente fazer o merge para a branch principal após aprovação. Esta abordagem promove um desenvolvimento contínuo e seguro, onde cada mudança é revisada antes de ser integrada, mantendo a branch principal sempre estável e deployable. É ideal para equipes que trabalham com deploy contínuo e querem manter um histórico linear e limpo.
+
 ---
 
 *Este README serve como referência rápida para os comandos Git mais utilizados.*
