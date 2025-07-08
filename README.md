@@ -1,6 +1,6 @@
 # Git - Comandos Essenciais
 
-Este guia apresenta os principais comandos do Git para controle de versão.
+Este guia apresenta os principais comandos do Git para controle de versão. Alterei este README no GitHub.
 
 ## Configuração Inicial
 
